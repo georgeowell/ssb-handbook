@@ -33,12 +33,12 @@
 
 ## Ready to get started?
 
-<img src="./assets/garden/hermies-watering.gif" alt="hermies watering">
-
 **We have a detailed [Getting Started Guide](getting-started.md) which is
 recommended if you've got a few minutes.**
 
 If you just need to get up and running ASAP here's what you need to know:
+
+<img src="./assets/garden/hermies-watering.gif" alt="hermies watering">
 
 ### Quick Start
 
@@ -57,9 +57,9 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Have Other Questions?
 
-<img src="./assets/garden/hermies-gift.gif" alt="hermies gift">
-
 A great place to learn more is our [FAQ page](faq/index.md)
+
+<img src="./assets/garden/hermies-gift.gif" alt="hermies gift">
 
 In addition, you'll find a wealth of resources within this handbook, accessible through the sidebar.  
 
@@ -76,7 +76,6 @@ The resources are organized by these topics:
 * [Concepts](concepts/index.md)
 * [Guides](guides/index.md)
 * [Glossary](glossary.md)
-
 
 <div align="center">
   <img src="./assets/garden/medium-grass.gif" alt="medium grass">
